@@ -1,2 +1,4 @@
-# OlaMundo
-Primeiro Repositorio versionado
+# Olá Mundo !
+Primeiro Repositorio versionado 
+
+Passos para adquirir esta cpmpetência 
