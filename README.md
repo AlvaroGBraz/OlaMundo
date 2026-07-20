@@ -1,4 +1,4 @@
 # Olá Mundo !
 Primeiro Repositorio versionado 
 
-Passos para adquirir esta cpmpetência 
+Passos para adquirir esta competência 
